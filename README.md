@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+#About this project
 
 This project showcases different cocktails and traditional drinks form countries around the world , this menu also includes the instructions & ingredients needed to make the cocktails. 
 
