@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project showcases different cocktails and traditional drinks form countries around the world , this menu also includes the instructions & ingredients needed to make the cocktails. 
 
 ## Available Scripts
 
